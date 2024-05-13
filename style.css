@@ -13,9 +13,10 @@ background-color: whitesmoke;
 .logo img {
     width: 5%;
     padding: 1%;
-   text-align: center;
+   text-align: left;
    height: 50;
    margin-left: auto;
+   float: left;
 }
 
 nav {
